@@ -1,0 +1,3382 @@
+[
+  {
+    "State": "United States",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12
+  },
+  {
+    "State": "United States",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.7
+  },
+  {
+    "State": "United States",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.3
+  },
+  {
+    "State": "United States",
+    "Category": "Diabetes",
+    "count": 3.8
+  },
+  {
+    "State": "United States",
+    "Category": "Heart failure",
+    "count": 3.7
+  },
+  {
+    "State": "United States",
+    "Category": "Hypertensive dieases",
+    "count": 4.2
+  },
+  {
+    "State": "United States",
+    "Category": "Influenza and pneumonia",
+    "count": 2.5
+  },
+  {
+    "State": "United States",
+    "Category": "Ischemic heart disease",
+    "count": 16.9
+  },
+  {
+    "State": "United States",
+    "Category": "Malignant neoplasms",
+    "count": 27.7
+  },
+  {
+    "State": "United States",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.1
+  },
+  {
+    "State": "United States",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3
+  },
+  {
+    "State": "United States",
+    "Category": "Renal failure",
+    "count": 2.3
+  },
+  {
+    "State": "United States",
+    "Category": "Sepsis",
+    "count": 1.9
+  },
+  {
+    "State": "Alabama",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.5
+  },
+  {
+    "State": "Alabama",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.2
+  },
+  {
+    "State": "Alabama",
+    "Category": "Chronic lower respiratory disease",
+    "count": 8.3
+  },
+  {
+    "State": "Alabama",
+    "Category": "Diabetes",
+    "count": 2.9
+  },
+  {
+    "State": "Alabama",
+    "Category": "Heart failure",
+    "count": 6.1
+  },
+  {
+    "State": "Alabama",
+    "Category": "Hypertensive dieases",
+    "count": 3.3
+  },
+  {
+    "State": "Alabama",
+    "Category": "Influenza and pneumonia",
+    "count": 2.6
+  },
+  {
+    "State": "Alabama",
+    "Category": "Ischemic heart disease",
+    "count": 12
+  },
+  {
+    "State": "Alabama",
+    "Category": "Malignant neoplasms",
+    "count": 25
+  },
+  {
+    "State": "Alabama",
+    "Category": "Other diseases of the circulatory system",
+    "count": 13
+  },
+  {
+    "State": "Alabama",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.3
+  },
+  {
+    "State": "Alabama",
+    "Category": "Renal failure",
+    "count": 2.4
+  },
+  {
+    "State": "Alabama",
+    "Category": "Sepsis",
+    "count": 2.5
+  },
+  {
+    "State": "Arizona",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12
+  },
+  {
+    "State": "Arizona",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.4
+  },
+  {
+    "State": "Arizona",
+    "Category": "Chronic lower respiratory disease",
+    "count": 9
+  },
+  {
+    "State": "Arizona",
+    "Category": "Diabetes",
+    "count": 4.9
+  },
+  {
+    "State": "Arizona",
+    "Category": "Heart failure",
+    "count": 1.6
+  },
+  {
+    "State": "Arizona",
+    "Category": "Hypertensive dieases",
+    "count": 5.7
+  },
+  {
+    "State": "Arizona",
+    "Category": "Influenza and pneumonia",
+    "count": 2
+  },
+  {
+    "State": "Arizona",
+    "Category": "Ischemic heart disease",
+    "count": 18.5
+  },
+  {
+    "State": "Arizona",
+    "Category": "Malignant neoplasms",
+    "count": 28.8
+  },
+  {
+    "State": "Arizona",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7.1
+  },
+  {
+    "State": "Arizona",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.7
+  },
+  {
+    "State": "Arizona",
+    "Category": "Renal failure",
+    "count": 0.9
+  },
+  {
+    "State": "Arizona",
+    "Category": "Sepsis",
+    "count": 0.4
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.5
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.3
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Chronic lower respiratory disease",
+    "count": 9.5
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Diabetes",
+    "count": 4.3
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Heart failure",
+    "count": 3.7
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Hypertensive dieases",
+    "count": 5.5
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Influenza and pneumonia",
+    "count": 1.9
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Ischemic heart disease",
+    "count": 20.3
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Malignant neoplasms",
+    "count": 26.4
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Other diseases of the circulatory system",
+    "count": 6.2
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Other diseases of the respiratory system",
+    "count": 1.5
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Renal failure",
+    "count": 2.3
+  },
+  {
+    "State": "Arkansas",
+    "Category": "Sepsis",
+    "count": 0.6
+  },
+  {
+    "State": "California",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.7
+  },
+  {
+    "State": "California",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.7
+  },
+  {
+    "State": "California",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.5
+  },
+  {
+    "State": "California",
+    "Category": "Diabetes",
+    "count": 4.5
+  },
+  {
+    "State": "California",
+    "Category": "Heart failure",
+    "count": 3.4
+  },
+  {
+    "State": "California",
+    "Category": "Hypertensive dieases",
+    "count": 5.4
+  },
+  {
+    "State": "California",
+    "Category": "Influenza and pneumonia",
+    "count": 3
+  },
+  {
+    "State": "California",
+    "Category": "Ischemic heart disease",
+    "count": 18
+  },
+  {
+    "State": "California",
+    "Category": "Malignant neoplasms",
+    "count": 28.5
+  },
+  {
+    "State": "California",
+    "Category": "Other diseases of the circulatory system",
+    "count": 6.7
+  },
+  {
+    "State": "California",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.2
+  },
+  {
+    "State": "California",
+    "Category": "Renal failure",
+    "count": 1.8
+  },
+  {
+    "State": "California",
+    "Category": "Sepsis",
+    "count": 0.7
+  },
+  {
+    "State": "Colorado",
+    "Category": "Alzheimer disease and dementia",
+    "count": 13.5
+  },
+  {
+    "State": "Colorado",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.4
+  },
+  {
+    "State": "Colorado",
+    "Category": "Chronic lower respiratory disease",
+    "count": 9.6
+  },
+  {
+    "State": "Colorado",
+    "Category": "Diabetes",
+    "count": 3.6
+  },
+  {
+    "State": "Colorado",
+    "Category": "Heart failure",
+    "count": 3.2
+  },
+  {
+    "State": "Colorado",
+    "Category": "Hypertensive dieases",
+    "count": 3.8
+  },
+  {
+    "State": "Colorado",
+    "Category": "Influenza and pneumonia",
+    "count": 1.4
+  },
+  {
+    "State": "Colorado",
+    "Category": "Ischemic heart disease",
+    "count": 14.3
+  },
+  {
+    "State": "Colorado",
+    "Category": "Malignant neoplasms",
+    "count": 29.3
+  },
+  {
+    "State": "Colorado",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.1
+  },
+  {
+    "State": "Colorado",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.2
+  },
+  {
+    "State": "Colorado",
+    "Category": "Renal failure",
+    "count": 0.8
+  },
+  {
+    "State": "Colorado",
+    "Category": "Sepsis",
+    "count": 0.9
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Alzheimer disease and dementia",
+    "count": 14.2
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Cerebrovascular diseases",
+    "count": 5.8
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.1
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Diabetes",
+    "count": 2.5
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Heart failure",
+    "count": 4.4
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Hypertensive dieases",
+    "count": 2.6
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Influenza and pneumonia",
+    "count": 2
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Ischemic heart disease",
+    "count": 16.1
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Malignant neoplasms",
+    "count": 28.4
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Other diseases of the circulatory system",
+    "count": 10.1
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Other diseases of the respiratory system",
+    "count": 4.1
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Renal failure",
+    "count": 1.7
+  },
+  {
+    "State": "Connecticut",
+    "Category": "Sepsis",
+    "count": 1.9
+  },
+  {
+    "State": "Delaware",
+    "Category": "Alzheimer disease and dementia",
+    "count": 14.8
+  },
+  {
+    "State": "Delaware",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.3
+  },
+  {
+    "State": "Delaware",
+    "Category": "Chronic lower respiratory disease",
+    "count": 5.6
+  },
+  {
+    "State": "Delaware",
+    "Category": "Diabetes",
+    "count": 0.1
+  },
+  {
+    "State": "Delaware",
+    "Category": "Heart failure",
+    "count": 0
+  },
+  {
+    "State": "Delaware",
+    "Category": "Hypertensive dieases",
+    "count": 0.1
+  },
+  {
+    "State": "Delaware",
+    "Category": "Influenza and pneumonia",
+    "count": 0.1
+  },
+  {
+    "State": "Delaware",
+    "Category": "Ischemic heart disease",
+    "count": 22.6
+  },
+  {
+    "State": "Delaware",
+    "Category": "Malignant neoplasms",
+    "count": 40.7
+  },
+  {
+    "State": "Delaware",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.7
+  },
+  {
+    "State": "Delaware",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0
+  },
+  {
+    "State": "Delaware",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Delaware",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Alzheimer disease and dementia",
+    "count": 1.1
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Cerebrovascular diseases",
+    "count": 2.5
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Chronic lower respiratory disease",
+    "count": 0
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Diabetes",
+    "count": 0.1
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Heart failure",
+    "count": 0
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Hypertensive dieases",
+    "count": 3.4
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Influenza and pneumonia",
+    "count": 0
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Ischemic heart disease",
+    "count": 35.4
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Malignant neoplasms",
+    "count": 55.7
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Other diseases of the circulatory system",
+    "count": 1.9
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "District of Columbia",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Florida",
+    "Category": "Alzheimer disease and dementia",
+    "count": 10.7
+  },
+  {
+    "State": "Florida",
+    "Category": "Cerebrovascular diseases",
+    "count": 8.2
+  },
+  {
+    "State": "Florida",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.8
+  },
+  {
+    "State": "Florida",
+    "Category": "Diabetes",
+    "count": 3.8
+  },
+  {
+    "State": "Florida",
+    "Category": "Heart failure",
+    "count": 2.6
+  },
+  {
+    "State": "Florida",
+    "Category": "Hypertensive dieases",
+    "count": 4.2
+  },
+  {
+    "State": "Florida",
+    "Category": "Influenza and pneumonia",
+    "count": 1.9
+  },
+  {
+    "State": "Florida",
+    "Category": "Ischemic heart disease",
+    "count": 19.1
+  },
+  {
+    "State": "Florida",
+    "Category": "Malignant neoplasms",
+    "count": 28.5
+  },
+  {
+    "State": "Florida",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7.3
+  },
+  {
+    "State": "Florida",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.5
+  },
+  {
+    "State": "Florida",
+    "Category": "Renal failure",
+    "count": 2
+  },
+  {
+    "State": "Florida",
+    "Category": "Sepsis",
+    "count": 1.6
+  },
+  {
+    "State": "Georgia",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.9
+  },
+  {
+    "State": "Georgia",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.8
+  },
+  {
+    "State": "Georgia",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.4
+  },
+  {
+    "State": "Georgia",
+    "Category": "Diabetes",
+    "count": 3.6
+  },
+  {
+    "State": "Georgia",
+    "Category": "Heart failure",
+    "count": 5.3
+  },
+  {
+    "State": "Georgia",
+    "Category": "Hypertensive dieases",
+    "count": 5.2
+  },
+  {
+    "State": "Georgia",
+    "Category": "Influenza and pneumonia",
+    "count": 2.3
+  },
+  {
+    "State": "Georgia",
+    "Category": "Ischemic heart disease",
+    "count": 12
+  },
+  {
+    "State": "Georgia",
+    "Category": "Malignant neoplasms",
+    "count": 27
+  },
+  {
+    "State": "Georgia",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.2
+  },
+  {
+    "State": "Georgia",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.7
+  },
+  {
+    "State": "Georgia",
+    "Category": "Renal failure",
+    "count": 3
+  },
+  {
+    "State": "Georgia",
+    "Category": "Sepsis",
+    "count": 2.5
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Alzheimer disease and dementia",
+    "count": 16.6
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Cerebrovascular diseases",
+    "count": 9.8
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Chronic lower respiratory disease",
+    "count": 1.1
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Diabetes",
+    "count": 0.2
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Heart failure",
+    "count": 0.3
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Hypertensive dieases",
+    "count": 1.3
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Influenza and pneumonia",
+    "count": 4.6
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Ischemic heart disease",
+    "count": 19.1
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Malignant neoplasms",
+    "count": 34.9
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Other diseases of the circulatory system",
+    "count": 12
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0.1
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Hawaii",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Idaho",
+    "Category": "Alzheimer disease and dementia",
+    "count": 15.5
+  },
+  {
+    "State": "Idaho",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.9
+  },
+  {
+    "State": "Idaho",
+    "Category": "Chronic lower respiratory disease",
+    "count": 10.2
+  },
+  {
+    "State": "Idaho",
+    "Category": "Diabetes",
+    "count": 1.4
+  },
+  {
+    "State": "Idaho",
+    "Category": "Heart failure",
+    "count": 1.6
+  },
+  {
+    "State": "Idaho",
+    "Category": "Hypertensive dieases",
+    "count": 0.3
+  },
+  {
+    "State": "Idaho",
+    "Category": "Influenza and pneumonia",
+    "count": 0.4
+  },
+  {
+    "State": "Idaho",
+    "Category": "Ischemic heart disease",
+    "count": 18.3
+  },
+  {
+    "State": "Idaho",
+    "Category": "Malignant neoplasms",
+    "count": 33.9
+  },
+  {
+    "State": "Idaho",
+    "Category": "Other diseases of the circulatory system",
+    "count": 10.9
+  },
+  {
+    "State": "Idaho",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0.5
+  },
+  {
+    "State": "Idaho",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Idaho",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Illinois",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.9
+  },
+  {
+    "State": "Illinois",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.8
+  },
+  {
+    "State": "Illinois",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.5
+  },
+  {
+    "State": "Illinois",
+    "Category": "Diabetes",
+    "count": 3.3
+  },
+  {
+    "State": "Illinois",
+    "Category": "Heart failure",
+    "count": 4.9
+  },
+  {
+    "State": "Illinois",
+    "Category": "Hypertensive dieases",
+    "count": 4
+  },
+  {
+    "State": "Illinois",
+    "Category": "Influenza and pneumonia",
+    "count": 2.7
+  },
+  {
+    "State": "Illinois",
+    "Category": "Ischemic heart disease",
+    "count": 15
+  },
+  {
+    "State": "Illinois",
+    "Category": "Malignant neoplasms",
+    "count": 28.3
+  },
+  {
+    "State": "Illinois",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.6
+  },
+  {
+    "State": "Illinois",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.9
+  },
+  {
+    "State": "Illinois",
+    "Category": "Renal failure",
+    "count": 2.9
+  },
+  {
+    "State": "Illinois",
+    "Category": "Sepsis",
+    "count": 2
+  },
+  {
+    "State": "Indiana",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12.3
+  },
+  {
+    "State": "Indiana",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.2
+  },
+  {
+    "State": "Indiana",
+    "Category": "Chronic lower respiratory disease",
+    "count": 8.9
+  },
+  {
+    "State": "Indiana",
+    "Category": "Diabetes",
+    "count": 4.1
+  },
+  {
+    "State": "Indiana",
+    "Category": "Heart failure",
+    "count": 3.8
+  },
+  {
+    "State": "Indiana",
+    "Category": "Hypertensive dieases",
+    "count": 3.3
+  },
+  {
+    "State": "Indiana",
+    "Category": "Influenza and pneumonia",
+    "count": 1.9
+  },
+  {
+    "State": "Indiana",
+    "Category": "Ischemic heart disease",
+    "count": 15.8
+  },
+  {
+    "State": "Indiana",
+    "Category": "Malignant neoplasms",
+    "count": 26.6
+  },
+  {
+    "State": "Indiana",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.5
+  },
+  {
+    "State": "Indiana",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.3
+  },
+  {
+    "State": "Indiana",
+    "Category": "Renal failure",
+    "count": 2.8
+  },
+  {
+    "State": "Indiana",
+    "Category": "Sepsis",
+    "count": 2.5
+  },
+  {
+    "State": "Iowa",
+    "Category": "Alzheimer disease and dementia",
+    "count": 13.8
+  },
+  {
+    "State": "Iowa",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.2
+  },
+  {
+    "State": "Iowa",
+    "Category": "Chronic lower respiratory disease",
+    "count": 8.6
+  },
+  {
+    "State": "Iowa",
+    "Category": "Diabetes",
+    "count": 4
+  },
+  {
+    "State": "Iowa",
+    "Category": "Heart failure",
+    "count": 2
+  },
+  {
+    "State": "Iowa",
+    "Category": "Hypertensive dieases",
+    "count": 4.3
+  },
+  {
+    "State": "Iowa",
+    "Category": "Influenza and pneumonia",
+    "count": 1.6
+  },
+  {
+    "State": "Iowa",
+    "Category": "Ischemic heart disease",
+    "count": 19.5
+  },
+  {
+    "State": "Iowa",
+    "Category": "Malignant neoplasms",
+    "count": 28.5
+  },
+  {
+    "State": "Iowa",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.2
+  },
+  {
+    "State": "Iowa",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.7
+  },
+  {
+    "State": "Iowa",
+    "Category": "Renal failure",
+    "count": 0.3
+  },
+  {
+    "State": "Iowa",
+    "Category": "Sepsis",
+    "count": 0.2
+  },
+  {
+    "State": "Kansas",
+    "Category": "Alzheimer disease and dementia",
+    "count": 13.9
+  },
+  {
+    "State": "Kansas",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.6
+  },
+  {
+    "State": "Kansas",
+    "Category": "Chronic lower respiratory disease",
+    "count": 9
+  },
+  {
+    "State": "Kansas",
+    "Category": "Diabetes",
+    "count": 3.7
+  },
+  {
+    "State": "Kansas",
+    "Category": "Heart failure",
+    "count": 4
+  },
+  {
+    "State": "Kansas",
+    "Category": "Hypertensive dieases",
+    "count": 2.2
+  },
+  {
+    "State": "Kansas",
+    "Category": "Influenza and pneumonia",
+    "count": 1.8
+  },
+  {
+    "State": "Kansas",
+    "Category": "Ischemic heart disease",
+    "count": 17.1
+  },
+  {
+    "State": "Kansas",
+    "Category": "Malignant neoplasms",
+    "count": 27.8
+  },
+  {
+    "State": "Kansas",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.6
+  },
+  {
+    "State": "Kansas",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.7
+  },
+  {
+    "State": "Kansas",
+    "Category": "Renal failure",
+    "count": 1.3
+  },
+  {
+    "State": "Kansas",
+    "Category": "Sepsis",
+    "count": 0.2
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.4
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Cerebrovascular diseases",
+    "count": 5.7
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Chronic lower respiratory disease",
+    "count": 9.3
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Diabetes",
+    "count": 4.1
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Heart failure",
+    "count": 4.4
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Hypertensive dieases",
+    "count": 3.3
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Influenza and pneumonia",
+    "count": 2.3
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Ischemic heart disease",
+    "count": 14.8
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Malignant neoplasms",
+    "count": 27.8
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.1
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.7
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Renal failure",
+    "count": 2.7
+  },
+  {
+    "State": "Kentucky",
+    "Category": "Sepsis",
+    "count": 2.4
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Alzheimer disease and dementia",
+    "count": 10.2
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.9
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.5
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Diabetes",
+    "count": 3.9
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Heart failure",
+    "count": 6.2
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Hypertensive dieases",
+    "count": 4.3
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Influenza and pneumonia",
+    "count": 1.8
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Ischemic heart disease",
+    "count": 14.9
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Malignant neoplasms",
+    "count": 26.9
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.7
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.6
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Renal failure",
+    "count": 3.1
+  },
+  {
+    "State": "Louisiana",
+    "Category": "Sepsis",
+    "count": 3.1
+  },
+  {
+    "State": "Maine",
+    "Category": "Alzheimer disease and dementia",
+    "count": 18.3
+  },
+  {
+    "State": "Maine",
+    "Category": "Cerebrovascular diseases",
+    "count": 5.8
+  },
+  {
+    "State": "Maine",
+    "Category": "Chronic lower respiratory disease",
+    "count": 10.1
+  },
+  {
+    "State": "Maine",
+    "Category": "Diabetes",
+    "count": 1.7
+  },
+  {
+    "State": "Maine",
+    "Category": "Heart failure",
+    "count": 0.5
+  },
+  {
+    "State": "Maine",
+    "Category": "Hypertensive dieases",
+    "count": 0.5
+  },
+  {
+    "State": "Maine",
+    "Category": "Influenza and pneumonia",
+    "count": 0.7
+  },
+  {
+    "State": "Maine",
+    "Category": "Ischemic heart disease",
+    "count": 16.7
+  },
+  {
+    "State": "Maine",
+    "Category": "Malignant neoplasms",
+    "count": 35.2
+  },
+  {
+    "State": "Maine",
+    "Category": "Other diseases of the circulatory system",
+    "count": 10.1
+  },
+  {
+    "State": "Maine",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0.3
+  },
+  {
+    "State": "Maine",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Maine",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Maryland",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12
+  },
+  {
+    "State": "Maryland",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.2
+  },
+  {
+    "State": "Maryland",
+    "Category": "Chronic lower respiratory disease",
+    "count": 5.6
+  },
+  {
+    "State": "Maryland",
+    "Category": "Diabetes",
+    "count": 3.7
+  },
+  {
+    "State": "Maryland",
+    "Category": "Heart failure",
+    "count": 2.3
+  },
+  {
+    "State": "Maryland",
+    "Category": "Hypertensive dieases",
+    "count": 5.2
+  },
+  {
+    "State": "Maryland",
+    "Category": "Influenza and pneumonia",
+    "count": 2.6
+  },
+  {
+    "State": "Maryland",
+    "Category": "Ischemic heart disease",
+    "count": 17.2
+  },
+  {
+    "State": "Maryland",
+    "Category": "Malignant neoplasms",
+    "count": 28.5
+  },
+  {
+    "State": "Maryland",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.9
+  },
+  {
+    "State": "Maryland",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.5
+  },
+  {
+    "State": "Maryland",
+    "Category": "Renal failure",
+    "count": 2
+  },
+  {
+    "State": "Maryland",
+    "Category": "Sepsis",
+    "count": 2.3
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Alzheimer disease and dementia",
+    "count": 16.2
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Cerebrovascular diseases",
+    "count": 5.4
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.1
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Diabetes",
+    "count": 3
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Heart failure",
+    "count": 4.5
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Hypertensive dieases",
+    "count": 2.7
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Influenza and pneumonia",
+    "count": 3.1
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Ischemic heart disease",
+    "count": 13.6
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Malignant neoplasms",
+    "count": 28.7
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.5
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.5
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Renal failure",
+    "count": 2.6
+  },
+  {
+    "State": "Massachusetts",
+    "Category": "Sepsis",
+    "count": 2
+  },
+  {
+    "State": "Michigan",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11
+  },
+  {
+    "State": "Michigan",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.4
+  },
+  {
+    "State": "Michigan",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.5
+  },
+  {
+    "State": "Michigan",
+    "Category": "Diabetes",
+    "count": 3.6
+  },
+  {
+    "State": "Michigan",
+    "Category": "Heart failure",
+    "count": 4.7
+  },
+  {
+    "State": "Michigan",
+    "Category": "Hypertensive dieases",
+    "count": 4.2
+  },
+  {
+    "State": "Michigan",
+    "Category": "Influenza and pneumonia",
+    "count": 2.3
+  },
+  {
+    "State": "Michigan",
+    "Category": "Ischemic heart disease",
+    "count": 19.2
+  },
+  {
+    "State": "Michigan",
+    "Category": "Malignant neoplasms",
+    "count": 27.1
+  },
+  {
+    "State": "Michigan",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7.5
+  },
+  {
+    "State": "Michigan",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.4
+  },
+  {
+    "State": "Michigan",
+    "Category": "Renal failure",
+    "count": 2.4
+  },
+  {
+    "State": "Michigan",
+    "Category": "Sepsis",
+    "count": 1.6
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Alzheimer disease and dementia",
+    "count": 17.2
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.9
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.3
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Diabetes",
+    "count": 4
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Heart failure",
+    "count": 3.5
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Hypertensive dieases",
+    "count": 3.2
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Influenza and pneumonia",
+    "count": 1.3
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Ischemic heart disease",
+    "count": 12.6
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Malignant neoplasms",
+    "count": 30.9
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.1
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.6
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Renal failure",
+    "count": 1
+  },
+  {
+    "State": "Minnesota",
+    "Category": "Sepsis",
+    "count": 0.4
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Alzheimer disease and dementia",
+    "count": 9.8
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.8
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Chronic lower respiratory disease",
+    "count": 8.3
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Diabetes",
+    "count": 4.5
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Heart failure",
+    "count": 6
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Hypertensive dieases",
+    "count": 6.5
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Influenza and pneumonia",
+    "count": 2.9
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Ischemic heart disease",
+    "count": 14.9
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Malignant neoplasms",
+    "count": 26
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7.4
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Renal failure",
+    "count": 2.7
+  },
+  {
+    "State": "Mississippi",
+    "Category": "Sepsis",
+    "count": 1.2
+  },
+  {
+    "State": "Missouri",
+    "Category": "Alzheimer disease and dementia",
+    "count": 10.6
+  },
+  {
+    "State": "Missouri",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.6
+  },
+  {
+    "State": "Missouri",
+    "Category": "Chronic lower respiratory disease",
+    "count": 8.1
+  },
+  {
+    "State": "Missouri",
+    "Category": "Diabetes",
+    "count": 3.2
+  },
+  {
+    "State": "Missouri",
+    "Category": "Heart failure",
+    "count": 4.9
+  },
+  {
+    "State": "Missouri",
+    "Category": "Hypertensive dieases",
+    "count": 3.1
+  },
+  {
+    "State": "Missouri",
+    "Category": "Influenza and pneumonia",
+    "count": 2.6
+  },
+  {
+    "State": "Missouri",
+    "Category": "Ischemic heart disease",
+    "count": 16.8
+  },
+  {
+    "State": "Missouri",
+    "Category": "Malignant neoplasms",
+    "count": 27.1
+  },
+  {
+    "State": "Missouri",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.3
+  },
+  {
+    "State": "Missouri",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.7
+  },
+  {
+    "State": "Missouri",
+    "Category": "Renal failure",
+    "count": 3.1
+  },
+  {
+    "State": "Missouri",
+    "Category": "Sepsis",
+    "count": 1.8
+  },
+  {
+    "State": "Montana",
+    "Category": "Alzheimer disease and dementia",
+    "count": 16.6
+  },
+  {
+    "State": "Montana",
+    "Category": "Cerebrovascular diseases",
+    "count": 3
+  },
+  {
+    "State": "Montana",
+    "Category": "Chronic lower respiratory disease",
+    "count": 11.3
+  },
+  {
+    "State": "Montana",
+    "Category": "Diabetes",
+    "count": 0.2
+  },
+  {
+    "State": "Montana",
+    "Category": "Heart failure",
+    "count": 0.6
+  },
+  {
+    "State": "Montana",
+    "Category": "Hypertensive dieases",
+    "count": 0
+  },
+  {
+    "State": "Montana",
+    "Category": "Influenza and pneumonia",
+    "count": 0.3
+  },
+  {
+    "State": "Montana",
+    "Category": "Ischemic heart disease",
+    "count": 22.1
+  },
+  {
+    "State": "Montana",
+    "Category": "Malignant neoplasms",
+    "count": 36.7
+  },
+  {
+    "State": "Montana",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.1
+  },
+  {
+    "State": "Montana",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0
+  },
+  {
+    "State": "Montana",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Montana",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Alzheimer disease and dementia",
+    "count": 15.7
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.4
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Chronic lower respiratory disease",
+    "count": 10.2
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Diabetes",
+    "count": 3.1
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Heart failure",
+    "count": 2.6
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Hypertensive dieases",
+    "count": 1.7
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Influenza and pneumonia",
+    "count": 1.3
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Ischemic heart disease",
+    "count": 15.7
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Malignant neoplasms",
+    "count": 31.1
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Other diseases of the circulatory system",
+    "count": 10.9
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Other diseases of the respiratory system",
+    "count": 1.2
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Nebraska",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Nevada",
+    "Category": "Alzheimer disease and dementia",
+    "count": 9.3
+  },
+  {
+    "State": "Nevada",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.9
+  },
+  {
+    "State": "Nevada",
+    "Category": "Chronic lower respiratory disease",
+    "count": 9.6
+  },
+  {
+    "State": "Nevada",
+    "Category": "Diabetes",
+    "count": 2.8
+  },
+  {
+    "State": "Nevada",
+    "Category": "Heart failure",
+    "count": 0.7
+  },
+  {
+    "State": "Nevada",
+    "Category": "Hypertensive dieases",
+    "count": 6
+  },
+  {
+    "State": "Nevada",
+    "Category": "Influenza and pneumonia",
+    "count": 2.4
+  },
+  {
+    "State": "Nevada",
+    "Category": "Ischemic heart disease",
+    "count": 20.9
+  },
+  {
+    "State": "Nevada",
+    "Category": "Malignant neoplasms",
+    "count": 29.2
+  },
+  {
+    "State": "Nevada",
+    "Category": "Other diseases of the circulatory system",
+    "count": 11.8
+  },
+  {
+    "State": "Nevada",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0.3
+  },
+  {
+    "State": "Nevada",
+    "Category": "Renal failure",
+    "count": 0.1
+  },
+  {
+    "State": "Nevada",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Alzheimer disease and dementia",
+    "count": 19.1
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Cerebrovascular diseases",
+    "count": 2.6
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Chronic lower respiratory disease",
+    "count": 8.7
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Diabetes",
+    "count": 0.4
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Heart failure",
+    "count": 1
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Hypertensive dieases",
+    "count": 0.3
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Influenza and pneumonia",
+    "count": 0.4
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Ischemic heart disease",
+    "count": 19.9
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Malignant neoplasms",
+    "count": 36.8
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Other diseases of the circulatory system",
+    "count": 10.4
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0.4
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "New Hampshire",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Alzheimer disease and dementia",
+    "count": 10.8
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Cerebrovascular diseases",
+    "count": 5.8
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Chronic lower respiratory disease",
+    "count": 5.4
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Diabetes",
+    "count": 3.3
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Heart failure",
+    "count": 4.1
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Hypertensive dieases",
+    "count": 3.1
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Influenza and pneumonia",
+    "count": 2.2
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Ischemic heart disease",
+    "count": 17.8
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Malignant neoplasms",
+    "count": 27.2
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.7
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Other diseases of the respiratory system",
+    "count": 4.5
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Renal failure",
+    "count": 2.7
+  },
+  {
+    "State": "New Jersey",
+    "Category": "Sepsis",
+    "count": 3.3
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12.6
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.8
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Chronic lower respiratory disease",
+    "count": 10.2
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Diabetes",
+    "count": 4.6
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Heart failure",
+    "count": 0.9
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Hypertensive dieases",
+    "count": 0.7
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Influenza and pneumonia",
+    "count": 0.8
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Ischemic heart disease",
+    "count": 23.9
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Malignant neoplasms",
+    "count": 32.5
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Other diseases of the circulatory system",
+    "count": 6.6
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0.2
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Renal failure",
+    "count": 0.2
+  },
+  {
+    "State": "New Mexico",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "New York",
+    "Category": "Alzheimer disease and dementia",
+    "count": 10.6
+  },
+  {
+    "State": "New York",
+    "Category": "Cerebrovascular diseases",
+    "count": 5.3
+  },
+  {
+    "State": "New York",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.6
+  },
+  {
+    "State": "New York",
+    "Category": "Diabetes",
+    "count": 3
+  },
+  {
+    "State": "New York",
+    "Category": "Heart failure",
+    "count": 3.3
+  },
+  {
+    "State": "New York",
+    "Category": "Hypertensive dieases",
+    "count": 3.8
+  },
+  {
+    "State": "New York",
+    "Category": "Influenza and pneumonia",
+    "count": 3.3
+  },
+  {
+    "State": "New York",
+    "Category": "Ischemic heart disease",
+    "count": 21.1
+  },
+  {
+    "State": "New York",
+    "Category": "Malignant neoplasms",
+    "count": 27.2
+  },
+  {
+    "State": "New York",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.2
+  },
+  {
+    "State": "New York",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.1
+  },
+  {
+    "State": "New York",
+    "Category": "Renal failure",
+    "count": 2.3
+  },
+  {
+    "State": "New York",
+    "Category": "Sepsis",
+    "count": 2.1
+  },
+  {
+    "State": "New York City",
+    "Category": "Alzheimer disease and dementia",
+    "count": 7.1
+  },
+  {
+    "State": "New York City",
+    "Category": "Cerebrovascular diseases",
+    "count": 4.3
+  },
+  {
+    "State": "New York City",
+    "Category": "Chronic lower respiratory disease",
+    "count": 4
+  },
+  {
+    "State": "New York City",
+    "Category": "Diabetes",
+    "count": 4.3
+  },
+  {
+    "State": "New York City",
+    "Category": "Heart failure",
+    "count": 0.2
+  },
+  {
+    "State": "New York City",
+    "Category": "Hypertensive dieases",
+    "count": 8.6
+  },
+  {
+    "State": "New York City",
+    "Category": "Influenza and pneumonia",
+    "count": 4.5
+  },
+  {
+    "State": "New York City",
+    "Category": "Ischemic heart disease",
+    "count": 30.6
+  },
+  {
+    "State": "New York City",
+    "Category": "Malignant neoplasms",
+    "count": 30.3
+  },
+  {
+    "State": "New York City",
+    "Category": "Other diseases of the circulatory system",
+    "count": 4.2
+  },
+  {
+    "State": "New York City",
+    "Category": "Other diseases of the respiratory system",
+    "count": 1.1
+  },
+  {
+    "State": "New York City",
+    "Category": "Renal failure",
+    "count": 0.3
+  },
+  {
+    "State": "New York City",
+    "Category": "Sepsis",
+    "count": 0.3
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Alzheimer disease and dementia",
+    "count": 13.4
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.1
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.5
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Diabetes",
+    "count": 4.1
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Heart failure",
+    "count": 4
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Hypertensive dieases",
+    "count": 3.1
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Influenza and pneumonia",
+    "count": 2.8
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Ischemic heart disease",
+    "count": 14.6
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Malignant neoplasms",
+    "count": 27.8
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7.5
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.2
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Renal failure",
+    "count": 2.8
+  },
+  {
+    "State": "North Carolina",
+    "Category": "Sepsis",
+    "count": 2.2
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Alzheimer disease and dementia",
+    "count": 15.9
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Cerebrovascular diseases",
+    "count": 2.9
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Chronic lower respiratory disease",
+    "count": 2.5
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Diabetes",
+    "count": 0.2
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Heart failure",
+    "count": 0
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Hypertensive dieases",
+    "count": 0
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Influenza and pneumonia",
+    "count": 0.3
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Ischemic heart disease",
+    "count": 26.8
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Malignant neoplasms",
+    "count": 45
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Other diseases of the circulatory system",
+    "count": 6.4
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "North Dakota",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Ohio",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12.2
+  },
+  {
+    "State": "Ohio",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.6
+  },
+  {
+    "State": "Ohio",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.6
+  },
+  {
+    "State": "Ohio",
+    "Category": "Diabetes",
+    "count": 3.9
+  },
+  {
+    "State": "Ohio",
+    "Category": "Heart failure",
+    "count": 3.9
+  },
+  {
+    "State": "Ohio",
+    "Category": "Hypertensive dieases",
+    "count": 3.7
+  },
+  {
+    "State": "Ohio",
+    "Category": "Influenza and pneumonia",
+    "count": 2.3
+  },
+  {
+    "State": "Ohio",
+    "Category": "Ischemic heart disease",
+    "count": 16.4
+  },
+  {
+    "State": "Ohio",
+    "Category": "Malignant neoplasms",
+    "count": 26.8
+  },
+  {
+    "State": "Ohio",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.8
+  },
+  {
+    "State": "Ohio",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.3
+  },
+  {
+    "State": "Ohio",
+    "Category": "Renal failure",
+    "count": 2.3
+  },
+  {
+    "State": "Ohio",
+    "Category": "Sepsis",
+    "count": 2.1
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Alzheimer disease and dementia",
+    "count": 10.5
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.1
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Chronic lower respiratory disease",
+    "count": 9.7
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Diabetes",
+    "count": 4.6
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Heart failure",
+    "count": 2.5
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Hypertensive dieases",
+    "count": 10.3
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Influenza and pneumonia",
+    "count": 1.5
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Ischemic heart disease",
+    "count": 19.4
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Malignant neoplasms",
+    "count": 27.4
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Other diseases of the circulatory system",
+    "count": 5.4
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Other diseases of the respiratory system",
+    "count": 1.6
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Renal failure",
+    "count": 0.7
+  },
+  {
+    "State": "Oklahoma",
+    "Category": "Sepsis",
+    "count": 0.3
+  },
+  {
+    "State": "Oregon",
+    "Category": "Alzheimer disease and dementia",
+    "count": 15.8
+  },
+  {
+    "State": "Oregon",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.7
+  },
+  {
+    "State": "Oregon",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.8
+  },
+  {
+    "State": "Oregon",
+    "Category": "Diabetes",
+    "count": 4.7
+  },
+  {
+    "State": "Oregon",
+    "Category": "Heart failure",
+    "count": 3.8
+  },
+  {
+    "State": "Oregon",
+    "Category": "Hypertensive dieases",
+    "count": 3.6
+  },
+  {
+    "State": "Oregon",
+    "Category": "Influenza and pneumonia",
+    "count": 1
+  },
+  {
+    "State": "Oregon",
+    "Category": "Ischemic heart disease",
+    "count": 12.8
+  },
+  {
+    "State": "Oregon",
+    "Category": "Malignant neoplasms",
+    "count": 30.9
+  },
+  {
+    "State": "Oregon",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.8
+  },
+  {
+    "State": "Oregon",
+    "Category": "Other diseases of the respiratory system",
+    "count": 1.7
+  },
+  {
+    "State": "Oregon",
+    "Category": "Renal failure",
+    "count": 0.3
+  },
+  {
+    "State": "Oregon",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.9
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.5
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.2
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Diabetes",
+    "count": 3.5
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Heart failure",
+    "count": 4.5
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Hypertensive dieases",
+    "count": 2.7
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Influenza and pneumonia",
+    "count": 2.6
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Ischemic heart disease",
+    "count": 16.8
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Malignant neoplasms",
+    "count": 27.2
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.3
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.6
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Renal failure",
+    "count": 2.8
+  },
+  {
+    "State": "Pennsylvania",
+    "Category": "Sepsis",
+    "count": 2.3
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Cerebrovascular diseases",
+    "count": 5.5
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Chronic lower respiratory disease",
+    "count": 5.2
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Diabetes",
+    "count": 14.3
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Heart failure",
+    "count": 1.2
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Hypertensive dieases",
+    "count": 5.7
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Influenza and pneumonia",
+    "count": 3.2
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Ischemic heart disease",
+    "count": 15.7
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Malignant neoplasms",
+    "count": 23.8
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Other diseases of the circulatory system",
+    "count": 4.2
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.4
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Renal failure",
+    "count": 3.8
+  },
+  {
+    "State": "Puerto Rico",
+    "Category": "Sepsis",
+    "count": 2.9
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Alzheimer disease and dementia",
+    "count": 22.1
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Cerebrovascular diseases",
+    "count": 3
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Chronic lower respiratory disease",
+    "count": 4.4
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Diabetes",
+    "count": 0.1
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Heart failure",
+    "count": 0.1
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Hypertensive dieases",
+    "count": 0.4
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Influenza and pneumonia",
+    "count": 0.3
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Ischemic heart disease",
+    "count": 26.6
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Malignant neoplasms",
+    "count": 38.3
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Other diseases of the circulatory system",
+    "count": 4.6
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Rhode Island",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Alzheimer disease and dementia",
+    "count": 13.5
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.2
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.9
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Diabetes",
+    "count": 4
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Heart failure",
+    "count": 3.7
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Hypertensive dieases",
+    "count": 3.5
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Influenza and pneumonia",
+    "count": 1.6
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Ischemic heart disease",
+    "count": 14.2
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Malignant neoplasms",
+    "count": 27.5
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Other diseases of the circulatory system",
+    "count": 9.3
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Renal failure",
+    "count": 2.4
+  },
+  {
+    "State": "South Carolina",
+    "Category": "Sepsis",
+    "count": 2.2
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12.1
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.9
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Chronic lower respiratory disease",
+    "count": 8.3
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Diabetes",
+    "count": 3.6
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Heart failure",
+    "count": 2.7
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Hypertensive dieases",
+    "count": 4.4
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Influenza and pneumonia",
+    "count": 3
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Ischemic heart disease",
+    "count": 18.4
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Malignant neoplasms",
+    "count": 26.6
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7.1
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.9
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Renal failure",
+    "count": 2.1
+  },
+  {
+    "State": "Tennessee",
+    "Category": "Sepsis",
+    "count": 1.8
+  },
+  {
+    "State": "Texas",
+    "Category": "Alzheimer disease and dementia",
+    "count": 12.1
+  },
+  {
+    "State": "Texas",
+    "Category": "Cerebrovascular diseases",
+    "count": 7.1
+  },
+  {
+    "State": "Texas",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.9
+  },
+  {
+    "State": "Texas",
+    "Category": "Diabetes",
+    "count": 3.9
+  },
+  {
+    "State": "Texas",
+    "Category": "Heart failure",
+    "count": 3.7
+  },
+  {
+    "State": "Texas",
+    "Category": "Hypertensive dieases",
+    "count": 4.3
+  },
+  {
+    "State": "Texas",
+    "Category": "Influenza and pneumonia",
+    "count": 2.1
+  },
+  {
+    "State": "Texas",
+    "Category": "Ischemic heart disease",
+    "count": 16.8
+  },
+  {
+    "State": "Texas",
+    "Category": "Malignant neoplasms",
+    "count": 26.8
+  },
+  {
+    "State": "Texas",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7.7
+  },
+  {
+    "State": "Texas",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.1
+  },
+  {
+    "State": "Texas",
+    "Category": "Renal failure",
+    "count": 2.8
+  },
+  {
+    "State": "Texas",
+    "Category": "Sepsis",
+    "count": 2.7
+  },
+  {
+    "State": "Utah",
+    "Category": "Alzheimer disease and dementia",
+    "count": 16.2
+  },
+  {
+    "State": "Utah",
+    "Category": "Cerebrovascular diseases",
+    "count": 8.1
+  },
+  {
+    "State": "Utah",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7
+  },
+  {
+    "State": "Utah",
+    "Category": "Diabetes",
+    "count": 4.2
+  },
+  {
+    "State": "Utah",
+    "Category": "Heart failure",
+    "count": 7.7
+  },
+  {
+    "State": "Utah",
+    "Category": "Hypertensive dieases",
+    "count": 0.8
+  },
+  {
+    "State": "Utah",
+    "Category": "Influenza and pneumonia",
+    "count": 1.2
+  },
+  {
+    "State": "Utah",
+    "Category": "Ischemic heart disease",
+    "count": 14.7
+  },
+  {
+    "State": "Utah",
+    "Category": "Malignant neoplasms",
+    "count": 28.3
+  },
+  {
+    "State": "Utah",
+    "Category": "Other diseases of the circulatory system",
+    "count": 10.2
+  },
+  {
+    "State": "Utah",
+    "Category": "Other diseases of the respiratory system",
+    "count": 1.1
+  },
+  {
+    "State": "Utah",
+    "Category": "Renal failure",
+    "count": 0.5
+  },
+  {
+    "State": "Utah",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Vermont",
+    "Category": "Alzheimer disease and dementia",
+    "count": 16.5
+  },
+  {
+    "State": "Vermont",
+    "Category": "Cerebrovascular diseases",
+    "count": 0.1
+  },
+  {
+    "State": "Vermont",
+    "Category": "Chronic lower respiratory disease",
+    "count": 1.7
+  },
+  {
+    "State": "Vermont",
+    "Category": "Diabetes",
+    "count": 0
+  },
+  {
+    "State": "Vermont",
+    "Category": "Heart failure",
+    "count": 0
+  },
+  {
+    "State": "Vermont",
+    "Category": "Hypertensive dieases",
+    "count": 0.1
+  },
+  {
+    "State": "Vermont",
+    "Category": "Influenza and pneumonia",
+    "count": 0
+  },
+  {
+    "State": "Vermont",
+    "Category": "Ischemic heart disease",
+    "count": 30.3
+  },
+  {
+    "State": "Vermont",
+    "Category": "Malignant neoplasms",
+    "count": 49.8
+  },
+  {
+    "State": "Vermont",
+    "Category": "Other diseases of the circulatory system",
+    "count": 1.4
+  },
+  {
+    "State": "Vermont",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0
+  },
+  {
+    "State": "Vermont",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Vermont",
+    "Category": "Sepsis",
+    "count": 0
+  },
+  {
+    "State": "Virginia",
+    "Category": "Alzheimer disease and dementia",
+    "count": 13.2
+  },
+  {
+    "State": "Virginia",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.9
+  },
+  {
+    "State": "Virginia",
+    "Category": "Chronic lower respiratory disease",
+    "count": 6.4
+  },
+  {
+    "State": "Virginia",
+    "Category": "Diabetes",
+    "count": 4.1
+  },
+  {
+    "State": "Virginia",
+    "Category": "Heart failure",
+    "count": 4.5
+  },
+  {
+    "State": "Virginia",
+    "Category": "Hypertensive dieases",
+    "count": 3
+  },
+  {
+    "State": "Virginia",
+    "Category": "Influenza and pneumonia",
+    "count": 2.2
+  },
+  {
+    "State": "Virginia",
+    "Category": "Ischemic heart disease",
+    "count": 14.3
+  },
+  {
+    "State": "Virginia",
+    "Category": "Malignant neoplasms",
+    "count": 28.4
+  },
+  {
+    "State": "Virginia",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.6
+  },
+  {
+    "State": "Virginia",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.4
+  },
+  {
+    "State": "Virginia",
+    "Category": "Renal failure",
+    "count": 2.9
+  },
+  {
+    "State": "Virginia",
+    "Category": "Sepsis",
+    "count": 2.2
+  },
+  {
+    "State": "Washington",
+    "Category": "Alzheimer disease and dementia",
+    "count": 14.2
+  },
+  {
+    "State": "Washington",
+    "Category": "Cerebrovascular diseases",
+    "count": 7
+  },
+  {
+    "State": "Washington",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.4
+  },
+  {
+    "State": "Washington",
+    "Category": "Diabetes",
+    "count": 4.3
+  },
+  {
+    "State": "Washington",
+    "Category": "Heart failure",
+    "count": 1.4
+  },
+  {
+    "State": "Washington",
+    "Category": "Hypertensive dieases",
+    "count": 4.3
+  },
+  {
+    "State": "Washington",
+    "Category": "Influenza and pneumonia",
+    "count": 1.9
+  },
+  {
+    "State": "Washington",
+    "Category": "Ischemic heart disease",
+    "count": 15.8
+  },
+  {
+    "State": "Washington",
+    "Category": "Malignant neoplasms",
+    "count": 30.6
+  },
+  {
+    "State": "Washington",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.8
+  },
+  {
+    "State": "Washington",
+    "Category": "Other diseases of the respiratory system",
+    "count": 3.4
+  },
+  {
+    "State": "Washington",
+    "Category": "Renal failure",
+    "count": 0.3
+  },
+  {
+    "State": "Washington",
+    "Category": "Sepsis",
+    "count": 0.7
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Alzheimer disease and dementia",
+    "count": 11.5
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.5
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Chronic lower respiratory disease",
+    "count": 10.8
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Diabetes",
+    "count": 5.6
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Heart failure",
+    "count": 2.1
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Hypertensive dieases",
+    "count": 2.3
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Influenza and pneumonia",
+    "count": 1.3
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Ischemic heart disease",
+    "count": 20.5
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Malignant neoplasms",
+    "count": 30.2
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Other diseases of the circulatory system",
+    "count": 7
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0.9
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Renal failure",
+    "count": 1.1
+  },
+  {
+    "State": "West Virginia",
+    "Category": "Sepsis",
+    "count": 0.2
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Alzheimer disease and dementia",
+    "count": 14
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Cerebrovascular diseases",
+    "count": 6.3
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Chronic lower respiratory disease",
+    "count": 7.1
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Diabetes",
+    "count": 3.7
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Heart failure",
+    "count": 3.9
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Hypertensive dieases",
+    "count": 3.3
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Influenza and pneumonia",
+    "count": 2.1
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Ischemic heart disease",
+    "count": 16.4
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Malignant neoplasms",
+    "count": 28.6
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Other diseases of the circulatory system",
+    "count": 8.9
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Other diseases of the respiratory system",
+    "count": 2.8
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Renal failure",
+    "count": 2.2
+  },
+  {
+    "State": "Wisconsin",
+    "Category": "Sepsis",
+    "count": 0.8
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Alzheimer disease and dementia",
+    "count": 3.9
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Cerebrovascular diseases",
+    "count": 0.2
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Chronic lower respiratory disease",
+    "count": 4.8
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Diabetes",
+    "count": 0
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Heart failure",
+    "count": 0
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Hypertensive dieases",
+    "count": 0
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Influenza and pneumonia",
+    "count": 0
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Ischemic heart disease",
+    "count": 25.8
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Malignant neoplasms",
+    "count": 64.6
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Other diseases of the circulatory system",
+    "count": 0.7
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Other diseases of the respiratory system",
+    "count": 0
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Renal failure",
+    "count": 0
+  },
+  {
+    "State": "Wyoming",
+    "Category": "Sepsis",
+    "count": 0
+  }
+]

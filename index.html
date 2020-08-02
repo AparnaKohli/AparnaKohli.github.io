@@ -1,0 +1,201 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF8">
+    <meta name="description" content="">
+    <title>CoviD 19 Analysis: Correlation of Excessive Deaths in US States with underlying morbidity patterns and availability of hospital beds</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        .line {
+    stroke: #E4002B;
+    fill: none;
+    stroke-width: 3;
+}
+.tooltip {
+  position: absolute;
+  color: red  ;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 0 5px #999999;
+}
+
+rect.disabled { 
+  fill: transparent !important;
+}
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+input {
+  margin: 0 7px;
+}
+p {
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 80px;
+  margin-left: 80px;
+  font-family: "Georgia", serif;
+  font-size:20px; 
+
+}
+h3{
+      margin-left: 80px;
+      font-size: 200%;
+
+}
+h1{
+      
+      text-align: center;
+      color: black;
+      font-family: "Georgia", serif;
+      font-size:400%; 
+
+
+}
+h2{
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-size:200%; 
+  
+}
+.number{
+  color: red;
+  font-size: 150%;
+
+}
+.redText 
+{ 
+    color: red; 
+}
+
+h4
+{ 
+  margin-left: 80px;
+     
+}
+#chart-area
+{ 
+  .tooltip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  padding: 14px;
+  text-align: center
+  color:red;
+
+}
+.bars:hover {
+  fill: #CC0058;
+  transition: fill 0.15s;
+}
+.svg-container{
+     display: inline-block;
+     margin: 0 auto;
+  }
+
+}
+
+
+    </style>
+</head>
+
+<body>
+    <h1><b>An Analysis of Excessive Deaths due to CoviD 19 in US </b> </h1>
+    <h2> <span class="redText">Could we have predicted the worst impacted states? </span> </h2>
+
+<p>
+    Since January'20, the <span class="number">world</span> has reported <span class="number">14.2 Mn cases</span> &  and 
+    <span class="number">600k deaths</span> deaths due to CoviD 19. 
+    The <span class="number"> US </span> alone has seen <span class="number">4.58 Mn cases</span> &  and 
+    <span class="number">154k deaths</span>. In this story, we analyze excessive deaths due to Covid 19 in the United States. Simply put, excessive deaths due to CoviD-19 are defined as the number of deaths above and beyond what we would have expected to see under ‘normal’ conditions (<a href="https://odihpn.org/resources/interpreting-and-using-mortality-data-in-humanitarian-emergencies/">Source</a>). Our analysis reviews how excess deaths are correlated with hospital infrastructure in different states. Data on hospital infrastructure was sourced from the KFF (<a href="https://odihpn.org/resources/interpreting-and-using-mortality-data-in-humanitarian-emergencies/">Source</a>). Secondly, we also analyze how underlying morbidity patterns in different states could have contributed to these deaths. The most common contributing conditions for deaths in Covid 19 are heart and respiratory conditions. We use NCHS mortality data from 2015-2019 to see how different morbidity patterns in different states could have affected these patterns (<a href="https://data.cdc.gov/NCHS/Weekly-counts-of-death-by-jurisdiction-and-cause-o/u6jv-9ijr">Source</a>).</p>
+  
+<h3> What do the overall numbers for excess deaths look like? </h3>
+<p>We now review the number of excess deaths in different states. At the time of writing, Alaska, and South Dakota had 0 excess deaths and hence were excluded from the analysis. 
+</p>
+  
+
+
+    <h4> Excess deaths in different US States due to CovID 19 (February 1, 2020 - July 1 2020)</h4>
+    
+
+    <!-- Bootstrap grid setup -->
+    <div class="container">
+        <div class="row">
+            <div id="chart-area"></div>
+        </div>
+    </div>
+
+<!-- External JS libraries -->
+<script src="js/d3.min.js"></script>
+<!-- Custom JS -->
+<script src="js/barchart.js"></script>  
+
+<h3> Is there a relationship between excess deaths and available hospital infrastructure?</h3>
+<p> We tried to understand the relationship between excessive deaths and the hospital beds in a state. Hospital beds were used as a proxy for the availability of healthcare infrastructure in a state. Data was pulled from Kaiser Family Foundation research in 2018 <a href="https://www.kff.org/other/state-indicator/beds-by-ownership/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D">(Source)</a>
+The following graph shows that there is some inverse correlaion between excessive deaths and hospital beds. Generally, states with >= 3.5 beds per 1000 people had lower number of excessive deaths. We take the log(excessdeaths) on the X axis to distribute the data well. However, when we ran a linear regression model trying to explain deaths by hospital beds, it showed that this is not a statistically significant variable. Clearly, there are other things at play. </p>
+
+<h4> Correlation of availability of hospital infrastructure with excess deaths</h4>
+
+
+<div id="scatterplot-area"></div>
+<script src="js/scatterplot.js"></script>
+<hr>
+
+<p> Let us now explore if underlying morbidity patterns contributed to deaths in CoviD 19. Data shows that respiratory and circulatory diseases contribute to majority of deaths in CoviD 19 <a href="https://data.cdc.gov/NCHS/Conditions-contributing-to-deaths-involving-corona/hk9y-quqm">(Source)</a>. Our hypothesis was that these respiratory and circulatory conditions were pre-existing in the population and CoviD just exacerbated the disease, leading to death. If this was true, states with high levels of morbidity due to circulatory and respiratory conditions should have a large number of deaths. To start with, we analyzed mortality data in different states from 2015-2019. The graph below shows the causes of death in different states between 2015-2019.</p>
+
+
+
+<h4> Leading causes of deaths in different US States between 2015-2019</h4>
+
+
+<!--<select id="selectButton"></select>-->
+<div class="dropDownMenu">
+    <select id="selection">
+    </select>
+</div>
+<div class="svg-container">
+
+<div id="chart"></div>  
+<script src="js/d3-tip.js"></script> 
+
+<script src="/js/piechartdropdown.js"></script>
+
+
+<h4> <span style='color:orange'>Hover on the individual sections of the chart!</span> </h4>
+
+<hr>
+</div>
+
+
+<p> We set out to analyze if the different mortality patterns in different states contributed to excess deaths. We created linear regression models where we tried to explain the response variable, log(deaths) with explanatory variables, % mortality in different states due to different conditions. Our analysis found that the % of mortality due to heart failure, influenza & pneumonia, renal diseases and sepsis were statistically significant predictors of the excess number of deaths. 
+The graphs below demonstrate these relationships.</p>
+
+<div id="scatterplotdiseases-area"></div>  
+<script src="js/d3-tip.js"></script> 
+
+<script src="/js/scatterplotHF.js"></script>
+
+<script src="/js/scatterplotInfluenza.js"></script>
+
+<script src="/js/scatterplotrenal.js"></script>
+
+
+<script src="/js/scatterplotsepsis.js"></script>
+
+
+
+
+
+
+
+</body>
+</html>
